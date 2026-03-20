@@ -22,34 +22,13 @@ Every AI coding session starts the same way: you re-explain your architecture, p
 
 ---
 
-<!-- ============================================================
-  PLACEHOLDER: Showcase Video
-  ============================================================
-  Replace with an embedded video or linked thumbnail once the
-  showcase video is produced.
-
-  Expected content:
-    A 60-90 second walkthrough showing PraxisOS end-to-end:
-    opening a project, browsing the kanban board, elaborating
-    a task, clicking "Start Work", and pasting the generated
-    prompt into an AI tool (Cursor / Claude).
-
-  Recommended format: MP4 hosted on YouTube/Vimeo, embedded
-  as a clickable thumbnail image linking to the video.
-
-  File location when ready:
-    media/video/praxisos-showcase-thumbnail.png  (thumbnail)
-    Link to hosted video (YouTube/Vimeo URL)
-
-  Example markup once ready:
-    <p align="center">
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-        <img src="media/video/praxisos-showcase-thumbnail.png"
-             alt="PraxisOS Showcase Video" width="720">
-      </a>
-      <br><em>Watch PraxisOS in action (90 sec)</em>
-    </p>
-  ============================================================ -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EIx6-Wh3z8g">
+    <img src="media/video/praxisos-showcase-thumbnail1.png"
+         alt="PraxisOS Showcase Video" width="720">
+  </a>
+  <br><em>Watch Praxis OS showcase in action (120 sec)</em>
+</p>
 
 ---
 
